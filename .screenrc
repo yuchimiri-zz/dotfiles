@@ -1,0 +1,5 @@
+escape ^z^z
+hardstatus alwayslastline "[%Y-%m-%d %c] %`%-w%{=b bw}%n %t%{-}%+w $STY"
+termcapinfo xterm 'Co#256:AB=\E[48;5;%dm:AF=\E[38;5;%dm'
+term xterm-256color
+defbce "on"
