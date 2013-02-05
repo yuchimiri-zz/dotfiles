@@ -1,0 +1,22 @@
+[core]
+  excludesfile = ~/.gitignore
+  editor = vim
+  pager = less
+[user]
+  name = yuchimiri
+  email = yuchimiri24@gmail.com
+[github]
+  user = yuchimiri
+[color]
+  ui = auto
+  diff = auto
+  status = auto
+  branch = auto
+[alias]
+  df = diff
+  st = status
+  co = checkout
+  br = branch
+  ba = branch -a
+  lp = log -p
+  lg = log --graph
