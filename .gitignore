@@ -1,0 +1,9 @@
+GPATH
+GRTAGS
+GSYMS
+GTAGS
+.DS_Store
+*.sw[po]
+tags
+/.vim/bundle
+/.vim/.netrwhist
